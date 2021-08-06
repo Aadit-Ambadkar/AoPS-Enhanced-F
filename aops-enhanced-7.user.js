@@ -181,10 +181,7 @@ img.other-programs-image {
     background-color: rgb(225, 225, 225);
 }
 a.cmty-full-cell-link {
-    background-color: rgb(225, 225, 225);
-}
-.cmty-topic-cell.topic-unread {
-    background-color: rgb(225, 225, 225);
+    background-color: rgb(205, 205, 205);
 }
 .cmty-category-itembox-wrapper {
     background-color: rgb(196, 196, 196);
@@ -196,7 +193,16 @@ a.cmty-full-cell-link {
     background-color: #d6d6d6;
 }
 .cmty-category-cell-folder .cmty-category-itembox-wrapper {
-    background-color: rgb(225, 225, 225);;
+    background-color: rgb(225, 225, 225);
+}
+.topic-unread .cmty-topic-watchers {
+    background-color: rgb(240, 240, 240);
+}
+.cmty-topic-watchers {
+    background-color: rgb(214, 214, 214);
+}
+.cmty-topic-cell.topic-unread {
+    background-color: rgb(240, 240, 240);
 }
 `
 }
