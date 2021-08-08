@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name        AoPS Enhanced F7
-// @namespace   https://github.com/Aadit-Ambadkar/AoPS-Enhanced-Assets/
+// @namespace   https://github.com/Aadit-Ambadkar/AoPS-Enhanced-F/
 // @match       https://artofproblemsolving.com/*
 // @grant       none
 // @version     f7.0.1
