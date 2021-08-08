@@ -1,11 +1,11 @@
 // ==UserScript==
-// @name        AoPS Enhanced 7
-// @namespace   https://github.com/epiccakeking/aops-enhanced
+// @name        AoPS Enhanced F7
+// @namespace   https://github.com/Aadit-Ambadkar/AoPS-Enhanced-Assets/
 // @match       https://artofproblemsolving.com/*
 // @grant       none
-// @version     7.0.1
+// @version     f7.0.1
 // @author      epiccakeking, firebolt360, vEnhance, forester2015
-// @description AoPS Enhanced adds and improves various features of the AoPS website.
+// @description Aops Enhanced F is a version of AoPS Enhanced maintained by the user firebolt360. It aims to bring even more features, and also acts as dev testing for features to be pushed into the actual AoPS Enhanced
 // @license     MIT
 // ==/UserScript==
 
@@ -42,7 +42,6 @@ let settings_ui = {
 
 let themes = {
   'None': '',
-  'PLACEHOLDER': '*{color: red}',
   'Optimal':`
 #header:not(.shrunken-header) .dropdown-visible .site-link {
     background-color: #ababab!important
