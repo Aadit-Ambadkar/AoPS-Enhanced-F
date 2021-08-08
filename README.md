@@ -3,7 +3,7 @@
 # AoPS-Enhanced-F
 
 AoPS Enhanced F is maintained by the AoPS user firebolt360, aka me. It aims to add even more features to AoPS, ontop of the base features of AoPS Enhanced.
-My goal is to make this as the "dev testing" repo for AoPS Enhanced. Most of the features here will be sent to (AoPS Enhanced)[https://github.com/epiccakeking/aops-enhanced] as a PR at some point in time.
+My goal is to make this as the "dev testing" repo for AoPS Enhanced. Most of the features here will be sent to [AoPS Enhanced](https://github.com/epiccakeking/aops-enhanced) as a PR at some point in time.
 
 Please repoort any bugs that you may find to firebolt360 on AoPS, or open an issue here.
 
