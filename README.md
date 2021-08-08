@@ -7,10 +7,11 @@ My goal is to make this as the "dev testing" repo for AoPS Enhanced. Most of the
 
 Please repoort any bugs that you may find to firebolt360 on AoPS, or open an issue here.
 
-# AoPS Enhanced
-AoPS Enhanced is a userscript that adds and improves various features of the AoPS website.
-
-## Installation
+## F7 Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/)
 2. [Click here](aops-enhanced-f7.user.js?raw=1)
+
+# AoPS Enhanced
+AoPS Enhanced is a userscript that adds and improves various features of the AoPS website.
+
