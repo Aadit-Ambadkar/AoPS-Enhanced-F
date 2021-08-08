@@ -203,6 +203,21 @@ a.cmty-full-cell-link {
 .cmty-topic-cell.topic-unread {
     background-color: rgb(240, 240, 240);
 }
+.cmty-topic-cell-second-row {
+    color: #000;
+}
+.cmty-topics-list .cmty-topic-cell-subtitle {
+    color: #000;
+}
+.cmty-topic-cell-post {
+    color: #000;
+    width: 100%;
+    font-size: 12px;
+    font-family: Roboto,sans-serif;
+    overflow: hidden;
+    line-height: 16px;
+    float: left;
+}
 `
 }
 
