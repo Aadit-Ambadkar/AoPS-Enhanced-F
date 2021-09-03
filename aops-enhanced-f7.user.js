@@ -218,6 +218,57 @@ a.cmty-full-cell-link {
     line-height: 16px;
     float: left;
 }
+`, 'Mobile': `
+.cmty-bbcode-buttons{
+  display: block;
+  height: auto;
+  width: auto !important;
+}
+.cmty-posting-button-row{
+  height: min-content !important;
+  display: flow-root;
+}
+#feed-wrapper{
+  display: inline;
+}
+#feed-topic{
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.cmty-no-tablet{
+  display: inline !important;
+}
+#feed-topic .cmty-topic-jump{
+  position: fixed;
+  top: 32px;
+  bottom: auto;
+  left: auto;
+  right: 10px;
+  z-index: 1000;
+  font-size: 24px;
+}
+#feed-topic .cmty-topic-jump-top{
+  right: 40px;
+}
+.cmty-upload-modal{
+  display: inline;
+}
+.aops-modal-body{
+  width: 100% !important;
+}
+#feed-tabs .cmty-postbox-inner-box{
+  width: 100% !important;
+  max-width: none !important;
+}
+#feed-topic .cmty-topic-posts-outer-wrapper > .aops-scroll-outer > .aops-scroll-inner {
+  left: 0;
+  width: 100% !important;
+}
+#feed-topic .cmty-postbox-inner-box {
+  max-width: 100% !important;
+}
 `
 }
 
